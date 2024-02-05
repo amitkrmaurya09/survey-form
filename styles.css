@@ -1,0 +1,68 @@
+
+html{
+    background-image: url("https://cdn.pixabay.com/photo/2016/08/15/10/17/survey-1594962_1280.jpg");
+    background-size: cover;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    opacity: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+form{
+    max-width: 600px;
+    min-width: 200px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #B4D4FF;
+    padding: 20px;
+}
+h1{
+    margin-top: 10px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+}
+   #description{
+   font-style: italic;
+}
+    h1,p{
+    text-align: center;
+}
+   label{
+    display: block;
+    border-radius: 8px solid ;
+}
+input, textarea, select{
+    width: 100%;
+    margin: 10px 0 0 0 ;
+
+}
+input,select,textarea{
+    display: block;
+    background-color: #EEF5FF;
+    border-color: #EEF5FF;
+    border-radius: 6px;
+}
+input[type="radio"]{
+    display: inline;
+    width: unset;
+}
+input[type="checkbox"]{
+    display: unset;;
+    width: unset;
+}
+#submit{
+    display: block;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    background-color: lightblue;
+    border-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+fieldset{
+    border: none;
+}
