@@ -17,7 +17,10 @@ This project is a simple, responsive survey form built using HTML and CSS. The f
 
 ## Demo
 
-Check out the live demo of the survey form [https://amitkrmaurya09.github.io/survey-form/].
+
+
+Check out the live demo of the survey form [here](https://amitkrmaurya09.github.io/survey-form/).
+
 
 ## Features
 
@@ -110,4 +113,3 @@ If you have any questions or feedback, please feel free to reach out:
 
 ---
 
-Feel free to customize this README with your own details, links, and additional sections as needed.
